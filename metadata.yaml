@@ -1,0 +1,36 @@
+_repo: Mahatma-Gandhi_73215
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2024-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73215'
+language: fi
+pgterms:marc905: 20240320015030rolland
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Politics and government -- 1919-1947'
+- !lcsh 'Gandhi, Mahatma, 1869-1948'
+- !lcsh 'Nationalists -- India -- Biography'
+- !lcsh 'Statesmen -- India -- Biography'
+- !lcc 'DS'
+- GITenberg
+title: Mahatma Gandhi
+url: http://www.gutenberg.org/ebooks/73215
