@@ -1,5 +1,8 @@
 _repo: Mahatma-Gandhi_73215
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rolland, Romain
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Romain_Rolland
     - https://fr.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73215#Mahatma-Gandhi
 gutenberg_issued: '2024-03-20'
 gutenberg_type: Text
 identifiers:
